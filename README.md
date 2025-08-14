@@ -2,6 +2,8 @@
 
 A beautiful Flutter application showcasing modern liquid glass UI components with stunning visual effects and smooth animations. This project demonstrates how to create elegant glassmorphism interfaces using the `liquid_glass_renderer` package, **inspired by iOS liquid glass design**.
 
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/bb995695-a53b-4e62-8baa-8a49bfc20961" />
+
 ## 🍎 iOS Liquid Glass Inspiration
 
 This project draws inspiration from Apple's signature liquid glass aesthetic found in iOS interfaces, featuring:
@@ -24,6 +26,8 @@ This project draws inspiration from Apple's signature liquid glass aesthetic fou
 ## 📱 Screenshots
 
 The app includes four main screens:
+
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/bfcdc83a-001d-4494-b88e-3c1f18241b23" />
 
 - **Home** - Welcome panel with glass tiles for different categories
 - **Search** - Search bar with filter chips
@@ -234,10 +238,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📞 Support
-
-If you have any questions or need help, please open an issue on GitHub.
-
----
-
-**Built with ❤️ using Flutter and Liquid Glass Renderer, inspired by iOS design language**
+**Built by Yazdan Haider using Flutter and Liquid Glass Renderer, inspired by iOS design language**
